@@ -1,0 +1,38 @@
+.pink-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.container{
+    padding-bottom: 100px;
+    
+}
+.pad-left{
+    padding-left: 41px;
+}
+
+ .cat1{
+     background-color: orange;
+     border-radius: 5px;          
+    
+ }
+ .cat2{
+     background-color:greenyellow;
+     border-radius: 5px;  
+
+ }
+ .cat3{
+     background-color: blue;
+     border-radius: 5px;  
+ }
+ .card{
+     box-shadow: 10px 10px 40px gray;
+ }
+ .card-footer{
+     border: none;
+     text-align:center;
+ }
+ .subscribe{
+     height: 300px;
+ }
+
+
